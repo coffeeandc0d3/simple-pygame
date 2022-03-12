@@ -1,0 +1,20 @@
+
+# not instantiated, just shared things between all subclasses
+class AbstractCharacter(self, img):
+   
+*def __init__(self, max_vel, rotation_vel)
+   
+  self.A = B
+
+ ~init velocity to 0 
+ ~init angle ? 
+   
+  velocity = $1
+
+   # would have a pos but not init
+   # would have an image but not init 
+
+# is instantiated 
+class Player(AbstractCharacter):
+    self.IMG = img 
+    self.POS= ? 
